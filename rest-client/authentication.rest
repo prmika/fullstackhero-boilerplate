@@ -12,3 +12,7 @@ Content-Type: application/json
     "email" : {{email}},
     "password" : {{password}}
 }
+
+###
+
+GET {{baseUrl}}/tenants HTTP/1.1
